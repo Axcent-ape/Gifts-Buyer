@@ -1,6 +1,7 @@
 # 🎁 Telegram Gift Buyer and Sniper
 
 Soft's author: [ApeCryptor](https://t.me/+_xCNXumUNWJkYjAy "ApeCryptor") 🦧
+
 Premium version of Gifts Bayer: https://t.me/ApeCryptorSoft/150
 #
 
