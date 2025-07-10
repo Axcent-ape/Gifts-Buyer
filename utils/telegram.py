@@ -59,7 +59,7 @@ async def buy_gift(bot_client: Client, tg_client: Client, count: int, gift_id: i
             break
 
         try:
-            await tg_client.send_gift(chat_id=chat_id, gift_id=gift_id, text='Gift was bought via @ApeCryptor soft', is_private=True)
+            await tg_client.send_gift(chat_id=chat_id, gift_id=gift_id, text='Gift was bought via @ApeCryptor soft')
             bough_gifts += 1
         except Exception as e:
             error_txt = f"{number}/{count} | Error while buying a gift {gift_id}: {e}"
