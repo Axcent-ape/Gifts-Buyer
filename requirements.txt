@@ -1,3 +1,0 @@
-loguru==0.7.3
-tgcrypto
-https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip
